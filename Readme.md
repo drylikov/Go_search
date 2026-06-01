@@ -27,7 +27,6 @@
 
 
 
-
 # Go_search.
 
  [Godoc.org](http://godoc.org) via the command-line.
